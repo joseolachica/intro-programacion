@@ -1,3 +1,75 @@
-prueba repositorio
+                            pseitn 
+ejercicio 1  
+
+
+nombre del algoritmo :conversion de unidades de longitud										
+entradas : ingrese el numero a pasar a pulgadas					
+salida : multiplicación de los centimetros a pulgas 
+pasos: 1 ingrese el número a convertir
+2 leer el numero asignar a la variable 
+3 multiplicar la variable por la conversion  pulgadas
+4 mostrar el resultado
+
+
+2 nombre del algoritmo: hora futura 
+entradas: leer la hora actual
+salidas: hora futura 
+pasos : 1 leer la hora actual
+2 leer la variable t en la cual almacenaremos el valor ingresado
+3 crear la variable h a la cual sera la hora futura
+4 hacer la suma de hora de la actual a la hora que se le suma 
+5 dar el resultado de las operaciones anteriores
+
+3 nombre del  algoritmo : que nota necesito 
+entradas : 2 variable que van a almacenar los datos de las notas ingresadas
+salidas : resultado final la nota que se necesita
+pasos: 1 ingresar los 2 valores pedidos
+2 leer los valores almacenados 
+3 aplicar la formula 
+4 como resultado seria 60
+
+4  nombre del  algoritmo :número invertido
+ entradas : leer el numero
+ salidas : numero escrito al revés
+ pasos: 1 leer el numero escrito
+ 2 reorganizarlo como una lista
+ 3 el número se lee al inverso
+
+5 nombre del  algoritmo : año bisiestos
+ entradas: leer el numero
+ salidas: decir si ese año es bisiesto
+ pasos: 1 leer el año
+ 2 si el numero se divide entre 400 el numero seria bisiesto
+ 3 decir que el numero ingresado es bisiesto
+ 
+ 6 nombre del  algoritmo : edad 
+ entradas : la edad
+ salidas: los años que tiene la persona
+ pasos: 1 leer los años
+ 2 pasar los mese a dias 
+ 3 sumar meses con los dias 
+ 4 restar con el año 
+ 5  resultado
+ 
+ 7 nombre del  algoritmo : determinar número par
+ entradas: escribir un numero
+ salidas: numero si es par 
+ pasos: 1 ingresar el numero
+ 2 ver si el numero es divisible por dos 
+ 3 si da entero el numero es impar
+ 
+ 8 nombre del  algoritmo : tiempo de viaje 
+  entradas : valores de todos los tramos
+  salidas : duracion de todo el viaje 
+  pasos: 1 leer todos los tramos y sumarlos
+  2 pasar los minutos a horas
+  
+  9nombre del  algoritmo : parte decimal
+  entradas : leer el numero
+  salidas : numero que es el decimal
+  pasos: 1 leer el numero ingresado
+  2 lo que va despues de la coma se toma como la parte decimal
+  3 mostrar los decimales
+
 
 
